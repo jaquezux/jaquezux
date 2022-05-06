@@ -1,7 +1,7 @@
 ## Hey! I'm Jaqueline.
 
-- 👀 I’m interested in technology, videogames and books!
-- 🌱 I’m currently learning Python.
+- 💜 I’m interested in technology, videogames and books
+- 🌱 I’m currently learning Python
 - 😊 Pronouns: She/her - Ela/dela
 
 <div align="center">
