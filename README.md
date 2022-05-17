@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 😊 Pronouns: She/her - Ela/dela
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/jaquezux"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquezux&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" style="max-width: 100%;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquezux&langs_count=7&theme=onedark" style="max-width: 100%;">
@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jaque-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jaque-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-</div>
+</div> -->
   
 <img align="right" alt="Jaque-gif" src="https://i.picasion.com/pic92/6ab51354b91b599dba4aaafb02d32d3c.gif" width="100" height="100">
   
