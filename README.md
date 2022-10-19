@@ -6,8 +6,6 @@
 - 🔮 <a href="https://beacons.ai/jaquezux" target="_blank">Beacons</a>
 <div align="center">
   <a href="https://github.com/jaquezux"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquezux&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" style="max-width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquezux&langs_count=7&theme=onedark" style="max-width: 100%;">
 </div>
 
 
