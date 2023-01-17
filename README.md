@@ -19,7 +19,7 @@
   <a href="https://www.codewars.com/users/jaquezux" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
    <a href="https://www.hackerrank.com/jaquezubieta" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </div>
- <img align="right" alt="Jaque-gif" src="https://i.picasion.com/pic92/6ab51354b91b599dba4aaafb02d32d3c.gif" width="100" height="100">
+ <img align="right" alt="Jaque-gif" src="https://i.pinimg.com/originals/34/8d/93/348d93afd3beb8ae6b9256ff334bfcd0.gif" width="100" height="100">
 
   
 
